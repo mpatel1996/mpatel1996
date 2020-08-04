@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning new languages and technologies
 - 👯 I’m looking to collaborate on anything interesting and fun :sweat_smile:
 - 🤔 I’m looking for help with gaining experience and collaborating in new projects
-### ###
+
 <br/>
-### Connect With me 
+### Connect With me ###
 [<img align="left" alt="Mihir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mihir1996/)
 [<img align="left" alt="Mihir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/moiihir96/)
 <br/>
