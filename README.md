@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+## Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page. :simple_smile: 
 
-**mpatel1996/mpatel1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
