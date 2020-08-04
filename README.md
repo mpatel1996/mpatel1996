@@ -1,6 +1,5 @@
 ## Hi there 👋 ##
-###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page :simple_smile: 
-
+###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page :simple_smile:.
 ---
 
 - 🔭 I’m currently working on ...
