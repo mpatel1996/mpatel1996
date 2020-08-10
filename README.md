@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on expanding my programming knowledge
 - 🌱 I’m currently learning new languages and technologies but focusing on learning ML and AI related libraries
-- 👯 I’m looking to collaborate on anything interesting and fun :sweat_smile:
+- 🤝 I’m looking to collaborate on anything interesting and fun :sweat_smile:
 - 🤔 I’m looking for help with gaining experience and collaborating in new projects
 - :earth_americas: I'm eager to explore our planet and travel the world if the opportunity arise :airplane:
 - :rocket: I Love talking about space travels and anything and everything in the universe, or I like to call it "the beyond" :milky_way:
