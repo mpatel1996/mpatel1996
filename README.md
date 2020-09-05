@@ -1,5 +1,6 @@
 ## Hi there 👋 ##
 ###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page:smile:
+<a href="https://portfolio-mihir.s3-us-west-1.amazonaws.com/index.html"><p>Click here to view my portfolio</p></a>
 <br/>
 
 - 🔭 I’m currently working on expanding my programming knowledge
@@ -14,7 +15,7 @@
 [<img align="left" alt="Mihir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/moiihir96/)
 <br/>
 <br/>
-<a href="https://portfolio-mihir.s3-us-west-1.amazonaws.com/index.html"><p>Click here to view my portfolio</p></a>
+
 ---
 <img align="left" alt="Mihir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mpatel1996&show_icons=true&hide_border=true" />
 
