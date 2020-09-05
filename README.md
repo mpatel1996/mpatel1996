@@ -1,5 +1,5 @@
 ## Hi there 👋 ##
-###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page :smile:
+###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page or visit my site [<p>here</p>](https://portfolio-mihir.s3-us-west-1.amazonaws.com/index.html):smile:
 <br/>
 
 - 🔭 I’m currently working on expanding my programming knowledge
