@@ -1,6 +1,6 @@
 ## Hi there 👋 ##
 ###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page:smile:
-<a href="https://portfolio-mihir.s3-us-west-1.amazonaws.com/index.html"><p>Click here to view my portfolio</p></a>
+<a href="https://patelmihir.info"><p>Click here to view my portfolio</p></a>
 
 - 🔭 I’m currently working on expanding my programming knowledge
 - 🌱 I’m currently learning new languages and technologies but focusing on learning ML and AI related libraries
