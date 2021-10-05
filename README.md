@@ -9,8 +9,8 @@
 - :rocket: I Love talking about space travels and anything and everything in the universe, or I like to call it "the beyond" :milky_way:
 
 ### Connect With me 
-[<img align="left" alt="Mihir | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mihir1996/)
-[<img align="left" alt="Mihir | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/moiihir96/)
+[<img align="left" alt="Mihir | LinkedIn" width="42px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/mihir1996/)
+[<img align="left" alt="Mihir | Instagram" width="42px" src="https://toppng.com/uploads/preview/instagram-logo-1155105798346ilx9kcc6.png" />](https://www.instagram.com/moiihir96/)
 <br/>
 <br/>
 
