@@ -10,7 +10,6 @@
 
 ### Connect With me 
 [<img align="left" alt="Mihir | LinkedIn" width="42px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/mihir1996/)
-[<img align="left" alt="Mihir | Instagram" width="42px" src="https://www.pnglib.com/wp-content/uploads/2021/02/instagram-logo-png_6023f9ae2ae54-680x680.png" />](https://www.instagram.com/moiihir96/)
 <br/>
 <br/>
 
