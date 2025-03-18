@@ -2,7 +2,7 @@
 ###### Thanks for checking out my GitHub page. It is currently Under constructions :construction: and more repositories are bound to be added in the future. Until then, please enjoy my About Me Page:smile:
 <a target="_blank" href="http://patelmihir.info/"><p>Click here to view my portfolio</p></a>
 
-- 🔭 I’m currently a Full Time Programmer/Developer with Capgemini. 
+- 🔭 I’m currently a Full Time Programmer/Developer with Rhapsody. 
 - 🌱 I’m currently learning new languages and technologies but focusing on learning ML and AI related libraries. 
 - 🤝 I’m looking to collaborate on anything interesting and fun :sweat_smile:
 - :earth_americas: I'm eager to explore our planet and travel the world if the opportunity arise :airplane:
